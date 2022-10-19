@@ -14,4 +14,9 @@ IF THE USER DOESNT TYPE IN ANY VARIATION OF YES
 OR NO THEN THEY WILL COUNTINE TO ASK A VAILD INPUT 
 ONCE THEY DO IT WILL EITHER END OR REPEAT.
 
-PEER REVIEW: NAME -- REVIEW
+PEER REVIEW: NAME Griffin Parker 
+REVIEW
+This projects works perfectly! It takes your input and reverses it perfectly. My favorite part was after you decide 
+to replay the program, it says "LET'S PLAY AGAIN"
+The program validates your final response correctly, making sure that the user can only type yes or no to restart or end
+the program, and alerts the user that their response wasn't correct. Very well done!
