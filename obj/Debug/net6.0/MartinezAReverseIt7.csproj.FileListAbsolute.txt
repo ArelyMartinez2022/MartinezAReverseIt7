@@ -1,0 +1,15 @@
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/bin/Debug/net6.0/MartinezAReverseIt7
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/bin/Debug/net6.0/MartinezAReverseIt7.deps.json
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/bin/Debug/net6.0/MartinezAReverseIt7.runtimeconfig.json
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/bin/Debug/net6.0/MartinezAReverseIt7.dll
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/bin/Debug/net6.0/MartinezAReverseIt7.pdb
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/obj/Debug/net6.0/MartinezAReverseIt7.csproj.AssemblyReference.cache
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/obj/Debug/net6.0/MartinezAReverseIt7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/obj/Debug/net6.0/MartinezAReverseIt7.AssemblyInfoInputs.cache
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/obj/Debug/net6.0/MartinezAReverseIt7.AssemblyInfo.cs
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/obj/Debug/net6.0/MartinezAReverseIt7.csproj.CoreCompileInputs.cache
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/obj/Debug/net6.0/MartinezAReverseIt7.dll
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/obj/Debug/net6.0/refint/MartinezAReverseIt7.dll
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/obj/Debug/net6.0/MartinezAReverseIt7.pdb
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/obj/Debug/net6.0/MartinezAReverseIt7.genruntimeconfig.cache
+/Users/arelymartinez/Desktop/redo/MartinezAReverseIt7/obj/Debug/net6.0/ref/MartinezAReverseIt7.dll
