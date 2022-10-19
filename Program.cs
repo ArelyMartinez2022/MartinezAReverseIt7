@@ -37,9 +37,9 @@ while(playAgain){
         //Console.Write(reverseNum);
     }
     bool converted = true;
+     Console.WriteLine(" ");
 
     while (converted){
-        Console.WriteLine(" ");
          Console.WriteLine(" ");
         Console.WriteLine("WOULD YOU LIKE TO PLAY AGAIN? YES OR NO? ");
         string rePlay = Console.ReadLine().ToUpper();
@@ -63,7 +63,6 @@ while(playAgain){
             converted = true;
             Console.WriteLine(" ");
             Console.WriteLine( "INVAILD RESPONSE TRY AGAIN!!" );
-            Console.WriteLine(" ");
         }
     } 
 }
